@@ -18,5 +18,7 @@ Nós estamos apenas começando, se você quiser ajudar, pode nos ajudar com:
 ### Links
 
 > [Meetup website](https://www.meetup.com/android-devs-poa/)
+
 > [Material dos Meetups](./meetups)
+
 > [Página no Face](https://www.facebook.com/AndroidDevelopersPOA)
